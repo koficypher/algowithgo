@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	stringmod.ReverseStringAlt("Hello World")
+	stringmod.FizzBuzzAlt(70)
 }
