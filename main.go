@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	stringmod.FizzBuzzAlt(70)
+	stringmod.AnyToDec("111", 10)
 }
